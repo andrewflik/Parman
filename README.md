@@ -1,7 +1,7 @@
 # Param - HackNuThon 2020 Submission
 
 Param is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
-Category - BlockChain.
+Category - BlockChain
 
 ## Installation
 
