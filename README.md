@@ -1,5 +1,5 @@
 <p float="center">
-  <img src="/src/logo.png" width="100" style="vertical-align:middle"/>
+  <img src="/src/logo.png" width="250" style="vertical-align:middle"/>
   &nbsp
 </p>
 **Parman** is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
