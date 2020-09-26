@@ -1,7 +1,9 @@
-
+[![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-) 
+  <br>
   <a href="https://github.com/andrewflik/Parman">
     <img src="/logo_.png" alt="Logo" width="250">
   </a>
+
 
 <br>
 Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.   <br>
