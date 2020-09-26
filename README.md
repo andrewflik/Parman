@@ -4,7 +4,7 @@
   </a>
 
 <br>
-Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.   
+Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.   <br>
 Category - BlockChain   
 <br>
 <p float="left">
