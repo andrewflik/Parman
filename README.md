@@ -1,11 +1,11 @@
-# Param - HackNuThon 2020 Submission
+# Parman - HackNuThon 2020 Submission
 
-Param is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
+Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
 Category - BlockChain
 
 ## Usage
 
-The Dapp has a core idea of securing social media posts with a digital signature which gets verified on blockchain. No one can hack your account and post off your account without blockchain verification or the signature key.
+The Parman(Dapp) has a core idea of securing social media posts with a digital signature which gets verified on blockchain. No one can hack your account and post off your account without blockchain verification or the signature key.   
 In an attempt to focus on privacy issue raised by users all over the world after Twitter scam - "Lets redesign the social media and think in terms of Decentralized Social Media"
 
 ## Installation
