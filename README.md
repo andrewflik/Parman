@@ -1,7 +1,34 @@
-# Param - HackNuThon 2020 Submission
+# [Parman](/src/logo.svg) - HackNuThon 2020 Submission
 
-Param is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
-Category - BlockChain.
+**Parman** is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
+Category - BlockChain
+
+<p float="left">
+  <img src="/screenshots/1.png" width="400" />
+  &nbsp
+  <img src="/screenshots/2.png" width="400" /> 
+  &nbsp
+   <img src="/screenshots/3.png" width="400" /> 
+   &nbsp
+   <img src="/screenshots/4.png" width="400" /> 
+  &nbsp
+     <img src="/screenshots/5.png" width="400" /> 
+   &nbsp
+   <img src="/screenshots/6.png" width="400" /> 
+    &nbsp
+     <img src="/screenshots/7.png" width="400" /> 
+   &nbsp
+   <img src="/screenshots/8.png" width="400" /> 
+    &nbsp
+     <img src="/screenshots/9.png" width="400" /> 
+   &nbsp
+   <img src="/screenshots/10.png" width="400" /> 
+</p>
+
+## Usage
+
+The Parman(Dapp) has a core idea of securing social media posts with a digital signature which gets verified on blockchain. No one can hack your account and post off your account without blockchain verification or the signature key.   
+In an attempt to focus on privacy issue raised by users all over the world after Twitter scam - "Lets redesign the social media and think in terms of Decentralized Social Media"
 
 ## Installation
 
@@ -15,11 +42,6 @@ yarn install
 ```bash
 yarn start
 ```
-
-## Usage
-
-The Dapp has a core idea of securing social media posts with a digital signature which gets verified on blockchain. No one can hack your account and post off your account without blockchain verification or the signature key.
-In an attempt to focus on privacy issue raised by users all over the world after Twitter scam - "Lets redesign the social media and think in terms of Decentralized Social Media"
 
 ## Built using
 React & FortMatic(For Ethereum Wallet)
