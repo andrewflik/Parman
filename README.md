@@ -7,7 +7,7 @@
   [![Build Status](https://img.shields.io/circleci/project/all-contributors/all-contributors/master.svg)](https://circleci.com/gh/all-contributors/workflows/all-contributors/tree/master) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-) 
 <br>
 
-Parman is a Dapp :computer: built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key, hence securing/authenticating each and every posts by a user.An app for users to take true ownership :ticket: of their content.<br>
+Parman is a Dapp :computer: built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key, hence securing/authenticating each and every posts by a user. An app for users to take true ownership :ticket: of their content.<br>
 Category - BlockChain   
 <br>  
 
