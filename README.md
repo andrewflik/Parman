@@ -1,6 +1,6 @@
-# Parman - HackNuThon 2020 Submission
+# [Parman](/src/logo.svg) - HackNuThon 2020 Submission
 
-Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
+**Parman** is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.
 Category - BlockChain
 
 <p float="left">
