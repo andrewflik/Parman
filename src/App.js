@@ -236,9 +236,8 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-	<h1> Praman </h1>
 	<h5> Sign Digitally on "Social Media Post" with Ethereum </h5>
-        <img src={logo} className="App-logo" alt="logo" width="200px"/>
+        <img src={logo} className="App-logo" alt="logo" width="400px"/>
         { loader ? Loader : Content }
         { wallet && (
           <div
