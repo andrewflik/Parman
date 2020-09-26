@@ -1,8 +1,8 @@
-<p>
+
   <a href="https://github.com/andrewflik/Parman">
-    <img src="/src/logo.png" alt="Logo" width="250">
+    <img src="/logo_.png" alt="Logo" width="250">
   </a>
-</p>
+
 <br>
 Parman is a Dapp built with Ethereum blockchain and Fortmatic for digitaly signing social media post with a private key.   
 Category - BlockChain   
